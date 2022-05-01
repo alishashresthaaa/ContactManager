@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "0d543ecd-cd81-4a85-938c-6d3877975231",
+      "name": "alisha.shrestha",
+      "email": "testclient@gmail.com"
+    },
+    {
+      "id": "80326b70-0041-4db8-b29c-e50f18144908",
+      "name": "thaili",
+      "email": "testclient@gmail.com"
+    }
+  ]
+}
